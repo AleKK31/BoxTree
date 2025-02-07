@@ -1,6 +1,7 @@
-# Links - LinkTree Bento Box
+# BoxTree
+BoxTree é um novo formato de link trees, inspirada no conceito de bento box. O projeto oferece uma experiência visualmente organizada e personalizável para exibir links, informações pessoais e redes sociais de forma criativa e compacta.
 
-Este é um site desenvolvido para centralizar links importantes e destacar habilidades e projetos. A página inclui widgets com informações pessoais, habilidades técnicas, links para redes sociais, e muito mais.
+Desenvolvido para centralizar conteúdos relevantes, BoxTree permite destacar contatos, habilidades e projetos por meio de widgets interativos, proporcionando uma navegação intuitiva e moderna.
 
 ## Características
 
@@ -11,20 +12,30 @@ Este é um site desenvolvido para centralizar links importantes e destacar habil
 - **Widget de Marca Pessoal:** Link para a página do Instagram da marca Tread Skateboard.
 - **Portfólio e Freelancer:** Links para o site de portfólio pessoal e um site com recursos para freelancers.
 
-## Tecnologias Utilizadas
+## 🛠️ Tecnologias 
 
 - HTML5
 - CSS3
 - JavaScript
-- FontAwesome para ícones
 
-## Estrutura de Arquivos
+## 📄 Estrutura de Arquivos
 
 ```plaintext
-/projeto
+/BoxTree
 |-- index.html
 |-- style.css
 |-- animationLoading.js
-|-- /img
-    |-- fotos usadas
+|-- /assets
+    |-- /img
+    |-- /gifs
 ```
+
+## 🚀 Como Usar
+
+1. Clone o repositório
+
+2. Baixe a extensão "Live Server"
+
+3. Clique com o botão direito no "index.html" e selecione "Open with Live Server"
+
+4. O navegador abrirá automaticamente, mostrando o projeto
