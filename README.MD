@@ -1,7 +1,10 @@
+
 # BoxTree
 BoxTree é um novo formato de link trees, inspirada no conceito de bento box. O projeto oferece uma experiência visualmente organizada e personalizável para exibir links, informações pessoais e redes sociais de forma criativa e compacta.
 
 Desenvolvido para centralizar conteúdos relevantes, BoxTree permite destacar contatos, habilidades e projetos por meio de widgets interativos, proporcionando uma navegação intuitiva e moderna.
+
+[Deploy](https://boxtree.vercel.app)
 
 ## 📦 Características
 
@@ -14,9 +17,9 @@ Desenvolvido para centralizar conteúdos relevantes, BoxTree permite destacar co
 
 ## 🛠️ Tecnologias 
 
-- HTML5
-- CSS3
-- JavaScript
+- **HTML**
+- **CSS**
+- **JavaScript**
 
 ## 📄 Estrutura de Arquivos
 
