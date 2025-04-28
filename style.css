@@ -156,11 +156,9 @@ a {
 
 .skills-icons {
     width: 100%;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    flex-wrap: wrap;
-    gap: 10px;
+    display: inline-block;
+    text-align: center; 
+    gap: 10px; 
 }
 
 .skills-icons i {
@@ -264,6 +262,18 @@ a {
 
 .skills-icons .devicon-spring-original:hover {
     color: #47a248;
+}
+
+.skills-icons .devicon-python-plain:hover {
+    color: #f7df1e;
+}
+
+.skills-icons .devicon-azure-plain:hover {
+    color: #21759b;
+}
+
+.skills-icons .devicon-amazonwebservices-plain-wordmark:hover {
+    color: #f3aa23;
 }
 
 .widget3 {
